@@ -1,0 +1,7 @@
+numpy==1.21.2
+opencv-python==4.9.0.80
+matplotlib==3.4.3
+hdf5storage==0.1.19
+scikit-learn==0.24.2
+tensorflow==2.13.0
+IPython==7.27.0
