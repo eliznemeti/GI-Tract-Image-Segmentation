@@ -1,12 +1,6 @@
-# GI-Segmentation-SU24
+Graduate Rotation: Emory CS 598R, advised by Dr Babak Mahmoudi, Summer 2024, PhD Year 1
 
-Manuscript in Progress
-
-Graduate Research: Emory CS 598R Rotation Project, advised by Dr Babak Mahmoudi, Summer 2024, PhD Year 1
-
-See Documents>Final Report for context. 
-
-![vns](vns.png)
+![banner](banner.png)
 
 ----------------  Use as .ipynb or .py ----------------
 
@@ -28,8 +22,6 @@ datasets folder temporarily empty due to exceeded LFS storage this month, to be 
 Documentation and recommended settings are already included throughout the Jupyter files. 
 
 Run UNET model -> UNET_latest_version.ipynb
-
-Run FCM model -> FCM+AR_main.m in conjunction with ac.m, tools_FCM.m, tools_KM.m
 
 ----------------  About Pretrained Models ----------------
 
