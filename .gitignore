@@ -1,0 +1,7 @@
+/synthetic data generation/gsoc/data
+/synthetic data generation/gsoc/figures
+/synthetic data generation/gsoc/reports
+/synthetic data generation/gsoc/scripts/results
+
+*.pyc
+*.yaml
