@@ -5,3 +5,12 @@
 
 *.pyc
 *.yaml
+*.mat
+*.png
+*.jpeg
+*.jpg
+*.pt
+*.npy
+*.npz
+*.rtf
+*.csv
